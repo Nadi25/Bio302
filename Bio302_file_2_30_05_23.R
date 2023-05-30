@@ -4,7 +4,7 @@
 
 ## to commit a second file you have to do commit and then press push
 
-## öoad library
+## load library
 library(ggplot2)
 
 ## read data
