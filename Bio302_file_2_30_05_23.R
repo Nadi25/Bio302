@@ -27,6 +27,9 @@ head(traits_low_22)
 ggplot(data = traits_low_22, aes(x = species, y = leaf_L, fill = treat))+
   geom_boxplot()
 
+## leaf width
+ggplot(data = traits_low_22, aes(x = species, y = leaf_W, fill = treat))+
+  geom_boxplot()
 
 
 
